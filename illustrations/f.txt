@@ -1,0 +1,89 @@
+- Dialogue and Interactive Systems: dialogue control models, context
+modeling for dialogue, dialogue act, corpora, tools and evaluation
+methods for developing dialogue systems, multimodal, embodied, and
+situated dialogue, social chatbots, open-domain dialogue systems,
+task-oriented dialog, dialog policy learning, state tracking,
+conversational understanding, response generation, pragmatic and/or
+semantic modelling for dialogue
+- Discourse and Pragmatics: coreference/anaphora resolution, mention
+detection, discourse parsing, metonymy recognition
+- Document Analysis: language modeling and topic modeling, document
+classification and clustering, text mining and applications,
+recommender systems, information retrieval, query understanding and
+analysis, retrieval and ranking models, cross-lingual retrieval
+- Generation: sentence generation, surface realization, referring
+expression generation, content selection, data-to-text,
+concept-to-text, story generation, storytelling, evaluation and
+resources
+- Information Extraction and Text Mining: named entity recognition,
+named entity resolution, relation extraction, event extraction, open
+information extraction, knowledge base population, knowledge graph
+acquisition and alignment, entity linking, entity disambiguation,
+temporal/spatial relation recognition, keyphrase extraction, text
+mining for formal or informal text (e.g. news, scientific text or
+social media text), text mining for specific domains
+(e.g. biomedical, clinical, chemistry, finance), cross-lingual
+information extraction
+- Linguistic Theories, Cognitive Modeling, and Psycholinguistics:
+formal theories of phonology/lexicon/syntax/semantics/pragmatics,
+computational models for linguistics, linguistic typology,
+experimental methods, language processing, neurolinguistics,
+language acquisition and loss, mathematical linguistics
+- Machine Learning: theoretical/empirical contributions to machine
+learning models for NLP and CL, Bayesian models, neural network models,
+online learning, reinforcement learning, transfer learning,
+embedding methods, relational learning, symbolic learning methods
+- Machine Translation: neural machine translation, machine translation
+models, machine translation evaluation, machine translation
+applications, word/phrase alignment models, transliteration, speech
+translation, domain adaptation for machine translation, low-resource
+machine translation, interactive and computer-assisted machine
+translation, tools for translators, decipherment, automatic
+post-editing, multimodal translation
+- Multidisciplinary and Area Chair COI: any NLP or CL related topics that
+are not categorized into other areas, papers with area chair COI
+- Multilinguality: multilingual dictionaries/corpora, analysis of
+translated texts, multilingual applications
+- Phonology, Morphology and Word Segmentation: morphological analysis,
+word segmentation models, theoretical models for
+phonology/morphology/word formation, multilingual morphology
+- Question Answering: factoid/non-factoid question answering,
+open-domain question answering, question interpretation, answer type
+classification, answer extraction, answer sentence selection,
+reading comprehension, community QA, cross-lingual question
+answering
+- Resources and Evaluation: development of linguistic resources such
+as corpora/treebanks/lexica/ontologies, corpus annotation methods,
+evaluation methodologies for NLP tasks
+- Sentence-level Semantics: semantic parsing, semantic role labelling,
+natural language interfaces for databases, parsing into logical
+forms, AMR parsing, sentence/document embeddings, program synthesis
+- Sentiment Analysis and Argument Mining: sentiment analysis, opinion
+mining, opinion representation, subjectivity analysis, argument
+analysis, argument evaluation, argumentation in discourse
+- Social Media: NLP in social media, NLP for noisy/informal text,
+event detection and social sensing, computational social science,
+trust evaluation and fake news, computational sociolinguistics,
+language and demographics, multilingual exchanges and code
+switching, sarcasm detection
+- Summarization: extractive summarization, abstractive summarization,
+evaluation methods for summarization, multi-document summarization,
+sentence simplification
+- Tagging, Chunking, Syntax and Parsing: part-of-speech tagging,
+shallow parsing, phrase chunking, phrase structure parsing,
+dependency parsing, deep parsing, semantic dependency parsing,
+grammar induction, formal grammar, string/tree/graph automata and
+transducers
+- Textual Inference and Other Areas of Semantics: recognizing textual
+entailment, semantic textual similarity, common-sense reasoning,
+story understanding, inference of implicit information, text-level
+semantic parsing/role labeling, metaphor analysis/generation
+- Vision, Robotics, Multimodal, Grounding and Speech: image/video
+captioning, multimodal QA, NLP for robotics, speech recognition,
+speech synthesis, language modeling for spoken language, instruction
+execution, language grounding, language and vision
+- Word-level Semantics: word sense disambiguation/induction,
+word/phrase embeddings, distributional similarity, lexical/phrasal
+entailment, paraphrasing, lexical knowledge acquisition, sense
+embeddings, sense tagging, lexical semantics, multiword expressions,
+selectional preferences

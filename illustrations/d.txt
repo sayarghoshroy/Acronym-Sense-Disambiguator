@@ -1,0 +1,5 @@
+ACM is organized into over 171 local chapters and 37 Special Interest Groups (SIGs), through which it conducts most of its activities. Additionally, there are over 500 college and university chapters. The first student chapter was founded in 1961 at the University of Louisiana at Lafayette.
+
+Many of the SIGs, such as SIGRAPH, SIGPLAN, SIGCSE and SIGCOMM, sponsor regular conferences, which have become famous as the dominant venue for presenting innovations in certain fields. The groups also publish a large number of specialized journals, magazines, and newsletters.
+
+ACM also sponsors other computer science related events such as the worldwide ACM International Collegiate Programming Contest (ICPC).
