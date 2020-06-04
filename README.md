@@ -36,7 +36,9 @@ python3 main.py
 bash build.sh <path_to_dump> <path_to_index_directory>
 ```
 
-- ##### A tested out and ready to use searchable index will be shared. Save it in the same directory with the source code.
+- ##### A tested out and ready to use searchable index will be shared upon request. Save it in the directory with the source code.
+
+- ##### The Acronym Server API can be found [here](http://acronyms.silmaril.ie/cgi-bin/xaa?).
 
 ---
 
@@ -67,7 +69,7 @@ Let’s say, we want to process a particular text file. We require all the lexic
 #### Acronym Expansion and Disambiguation
 
 <p align="justify">
-Now, we pass each acronym into our disambiguator subsystem. The subsystem is further divided into a set of modules. Firstly, one submodule sends a request to an API provided by ‘The Acronym Server’ hosted [here](http://acronyms.silmaril.ie/cgi-bin/xaa?). The API provides us with an XML of the data which we parse using ‘etree’ available in the ‘xml’ package to extract the valid expansions of the acronym. Some error handling conditions such as checking for bracketed clauses and null values have been added here to make the system more robust and fault tolerant.
+Now, we pass each acronym into our disambiguator subsystem. The subsystem is further divided into a set of modules. Firstly, one submodule sends a request to an API provided by ‘The Acronym Server’. The API provides us with an XML of the data which we parse using ‘etree’ available in the ‘xml’ package to extract the valid expansions of the acronym. Some error handling conditions such as checking for bracketed clauses and null values have been added here to make the system more robust and fault tolerant.
 </p>
 
 <p align="justify">
