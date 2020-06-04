@@ -1,5 +1,7 @@
 # Acronym Sense Disambiguator
 
+## Identifies acronyms in a text file and disambiguates possible expansions
+
 #### Illustration
 
 ##### Input
@@ -45,7 +47,7 @@ bash build.sh <path_to_dump> <path_to_index_directory>
 ### Introduction
 
 <p align="justify">
-Disambiguating acronyms is an important task in Computational Linguistics, often as a preprocessing step for further downstream tasks. This isn’t as trivially as maintaining a dictionary of expansions because acronyms are often domain specific and have a high degree of polysemy, with an average of 9.7 possible expansions per acronym. Thus, expansion of acronyms in most situations requires disambiguation. In this project we use the context around the occurrence of an acronym and match it with known contexts for different expansions to make an estimation as to the correct expansion intended. Given some text, we get all possible expansions from an existing mapping function, and for each of the terms, we lookup associated wikipedia articles from an indexed dump for the known context and then assign scores based on lexical matches. The accuracy of the system increases with larger text (about 100-200 words is sufficient for most cases), although accurate disambiguation has been achieved with just single lines of text.
+Disambiguating acronyms is an important task in Computational Linguistics, occasionally used as a preprocessing step for further downstream tasks. Acronyms are often domain specific and have a high degree of polysemy, with an average of 9.7 possible expansions per acronym. Thus, expansion of acronyms in most situations requires disambiguation. In this project we use the context around the occurrence of an acronym and match it with known contexts for different expansions to estimate the intended full-form. Given some text, we get all possible expansions from an existing mapping function, and for each of the terms, we lookup associated wikipedia articles from an indexed dump to find the known context and then assign scores based on lexical matches. The accuracy of the system increases with larger text (about 100-200 words is sufficient for most cases), although accurate disambiguation has been achieved with just single lines of text.
 </p>
 
 ### System in Detail
